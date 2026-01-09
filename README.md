@@ -261,7 +261,7 @@ Edit di section `#kontak`:
 
 - GitHub: [@rahmaddio](https://github.com/rahmaddio)
 - Email: rahmad.dio@example.com
-- Portfolio: https://rahmaddio.github.io
+- Portfolio: https://belajardev.github.io
 
 ## 📄 Lisensi
 
@@ -272,11 +272,12 @@ Penggunaan untuk tujuan komersial memerlukan izin terlebih dahulu.
 
 ## 🌐 Link Penting
 
-- **Live Website:** https://rahmaddio.github.io/kampung-bangkok
-- **Source Code:** https://github.com/rahmaddio/kampung-bangkok
+- **Live Website:** https://belajardev.github.io/kampung-bangkok
+- **Source Code:** https://github.com/belajardev/kampung-bangkok
 - **Instagram:** [@bangkokmatuse](https://instagram.com/bangkokmatuse)
 
 ---
 
 **"Bersama membangun kampung yang lebih baik melalui teknologi digital"**  
 _Website ini dikelola oleh masyarakat Kampung Bangkok untuk masyarakat_
+
