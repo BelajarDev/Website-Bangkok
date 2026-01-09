@@ -259,7 +259,7 @@ Edit di section `#kontak`:
 
 ### **Kontak Developer:**
 
-- GitHub: [@rahmaddio](https://github.com/rahmaddio)
+- GitHub: [@belajardev](https://github.com/belajardev)
 - Email: rahmad.dio@example.com
 - Portfolio: https://belajardev.github.io
 
@@ -272,12 +272,13 @@ Penggunaan untuk tujuan komersial memerlukan izin terlebih dahulu.
 
 ## 🌐 Link Penting
 
-- **Live Website:** https://belajardev.github.io/kampung-bangkok
-- **Source Code:** https://github.com/belajardev/kampung-bangkok
+- **Live Website:** https://belajardev.github.io/Website-Bangkok
+- **Source Code:** https://github.com/belajardev/Website-Bangkok
 - **Instagram:** [@bangkokmatuse](https://instagram.com/bangkokmatuse)
 
 ---
 
 **"Bersama membangun kampung yang lebih baik melalui teknologi digital"**  
 _Website ini dikelola oleh masyarakat Kampung Bangkok untuk masyarakat_
+
 
